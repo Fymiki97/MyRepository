@@ -41,3 +41,24 @@
 
  - - - -  - - 
 * * * * * * *
+## 使用\`\`\`语言 代码内容\`\`\` 格式加入代码块
+```c
+	#include <stdio.h>
+	#include <stdlib.h>
+	#include <string.h>
+	//这是一段c代码
+```
+```cpp
+	#include <iostream>
+	using namespace std;
+	/*这是一段C++代码 */
+```
+
+```python
+	import 库名
+	#使用一段Python代码
+```
+
+```bash
+	sudo apt-get install git #安装git命令
+```
